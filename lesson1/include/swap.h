@@ -4,7 +4,7 @@
 class swap
 {
 public:
-    swap(int a,int b):{
+    swap(int a,int b){
         this->_a =a;
         this->_b =b; 
     }
